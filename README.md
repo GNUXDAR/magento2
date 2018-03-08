@@ -1,6 +1,6 @@
 ## Mi primer modulo magento 2.x
 ## My first Magento 2 module
-
+### /Proyecto/app/code/{aqui_nuestro_modulo}
 Funciona como esqueleto para comenzar a crear modulos en magento2
 
 ## El modulo
